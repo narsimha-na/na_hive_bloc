@@ -1,0 +1,28 @@
+name: na_hive_bloc
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons:
+  hive:
+  hive_flutter:
+  intl:
+  flutter_bloc:
+  equatable:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  build_runner:
+  hive_generator:
+  
+
+flutter:
+  uses-material-design: true
