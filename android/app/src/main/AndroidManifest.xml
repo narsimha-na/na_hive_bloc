@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="na_hive_bloc"
+        android:label="nahivebloc"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

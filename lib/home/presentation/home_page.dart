@@ -2,9 +2,9 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:na_hive_bloc/bloc/crud_bloc.dart';
-import 'package:na_hive_bloc/models/transactions.dart';
-import 'package:na_hive_bloc/presentation/details_page.dart';
+import 'package:na_hive_bloc/home/presentation/bloc/crud_bloc.dart';
+import 'package:na_hive_bloc/home/models/transactions.dart';
+import 'package:na_hive_bloc/home/presentation/details_page.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});

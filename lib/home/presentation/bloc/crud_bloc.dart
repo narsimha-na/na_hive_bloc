@@ -3,8 +3,8 @@ import 'dart:developer';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:hive/hive.dart';
-import 'package:na_hive_bloc/data/boxes.dart';
-import 'package:na_hive_bloc/models/transactions.dart';
+import 'package:na_hive_bloc/home/data/boxes.dart';
+import 'package:na_hive_bloc/home/models/transactions.dart';
 
 part 'crud_event.dart';
 part 'crud_state.dart';

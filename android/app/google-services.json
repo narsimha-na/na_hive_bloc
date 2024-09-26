@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "838682859343",
+    "firebase_url": "https://na-hive-pg-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "na-hive-pg",
+    "storage_bucket": "na-hive-pg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838682859343:android:92cf6a3d4e354d271e973a",
+        "android_client_info": {
+          "package_name": "com.example.na_hive_bloc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWWPwoSKyElhciL-DLz_Dg1m-_zD1Qm0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

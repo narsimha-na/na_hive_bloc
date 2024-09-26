@@ -2,8 +2,8 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:na_hive_bloc/bloc/crud_bloc.dart';
-import 'package:na_hive_bloc/models/transactions.dart';
+import 'package:na_hive_bloc/home/presentation/bloc/crud_bloc.dart';
+import 'package:na_hive_bloc/home/models/transactions.dart';
 
 class DetailsPage extends StatefulWidget {
   final Transaction transaction;
